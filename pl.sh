@@ -1,6 +1,18 @@
 
 #!/bin/bash
 
+package = $( dpkg -l | grep dnsutils )
+if [ "$package" == "" ]
+then
+apt-get install dnsutils -y
+fi
+
+figlet = $( dpkg -l | grep figlet )
+if [ "$figlet"  == ""]
+then
+apt-get install figlet -y
+fi
+
 figlet "ParsingLink"
 
 if [ "$1" == "" ]
