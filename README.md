@@ -2,7 +2,7 @@
 
 ### Cloning:
 ```
-git clone https://github.com/4w4k3/BeeLogger.git
+git clone https://github.com/natanaelbatista/parsingLink.git
 ```
 
 ### Running:
@@ -23,5 +23,5 @@ chmod +x install.sh
 ```
 
 ```
-./ph.sh www.site.com
+./ph.sh www.example.com
 ```
