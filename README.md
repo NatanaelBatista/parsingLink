@@ -1,6 +1,6 @@
 # parsingLink
 
-![sch](https://github.com/natanaelbatista/parsingLink/pl.png)
+![sch](https://github.com/NatanaelBatista/parsingLink/blob/main/pl.png)
 
 ### Cloning:
 ```
