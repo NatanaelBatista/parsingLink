@@ -1,5 +1,10 @@
 # parsingLink
 
+### Cloning:
+```
+git clone https://github.com/4w4k3/BeeLogger.git
+```
+
 ### Running:
 ```
 cd parsingLink
@@ -18,5 +23,5 @@ chmod +x install.sh
 ```
 
 ```
-./ph.sh wwwl.site.com
+./ph.sh www.site.com
 ```
