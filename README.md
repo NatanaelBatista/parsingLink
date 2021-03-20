@@ -1,4 +1,4 @@
-# parsingLink
+# ParsingLink
 
 
 Tool used to obtain all the links present on the page passed as a parameter, together with the IP address of each domain.
